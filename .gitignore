@@ -1,0 +1,16 @@
+# Build results
+bin/
+obj/
+
+#Visual Studi Code settings
+.vscode/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Auto-generated files by IntelliSense
+.vscode/.{custom_name}/
+.vscode/.{class_name}/
